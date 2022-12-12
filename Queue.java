@@ -1,6 +1,6 @@
 
 //Title: Queue Implementation Class
-//Author: Ahmet Berat Akdoðan, Baþar Aslan
+//Author: Ahmet Berat Akdogan, Basar Aslan
 //Section: 1
 //Assignment: 5
 //Description: This class defines a queue implementation to contribute the trie implementation in Trie class.
