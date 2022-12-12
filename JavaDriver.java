@@ -1,6 +1,6 @@
 
 //Title: Java Driver Class
-//Author: Ahmet Berat Akdoðan, Baþar Aslan
+//Author: Ahmet Berat Akdogan, Basar Aslan
 //Section: 1
 //Assignment: 5
 //Description: This class is the main class of our trie implementation which makes specific operations benefiting from the Trie class.
